@@ -1,7 +1,9 @@
 #include<stdio.h>
 #include<stdlib.h>
  
-/* Link list node */
+/* Link list node 
+This is reverselist2
+*/
 struct Node
 {
     int data;
