@@ -2,7 +2,7 @@
 #include<stdlib.h>
  
 /* Link list node 
-This is reverselist2
+This is reverselist master node.
 */
 struct Node
 {
